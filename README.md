@@ -4,6 +4,8 @@
 
 **作者：观复居士 ·商务合作：13148728713；微信号：guanfujs**
 
+[![SkillHub](https://img.shields.io/badge/下载-SkillHub-orange)](https://www.skillhub.cn/skills/guanfu-yizhangtu)
+
 **English**: Infographic design guide rooted in the Chinese 'image and text equally valued' tradition — a three-step process (define meaning → choose form → lay out), a ten-form comparison table, a five-element color method, ten pitfalls, and a six-question acceptance check.
 
 ---
